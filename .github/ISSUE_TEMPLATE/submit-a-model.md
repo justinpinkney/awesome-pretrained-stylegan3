@@ -16,3 +16,5 @@ assignees: justinpinkney
 - Resolution:
 - Config (T or R):
 - Notes (e.g. training details, gamma, FID, kimg, anything else):
+
+_If you'd like to some sample image please attach them to the issue._
