@@ -2,7 +2,9 @@
 
 A collection of pretrained models for StyleGAN3.
 
-_For StyleGAN2 model please see: https://github.com/justinpinkney/awesome-pretrained-stylegan2_
+If you'd like to share a model please [submit an issue](https://github.com/justinpinkney/awesome-pretrained-stylegan3/issues/new?assignees=justinpinkney&labels=&template=submit-a-model.md&title=).
+
+_For StyleGAN2 models please see: https://github.com/justinpinkney/awesome-pretrained-stylegan2_
 
 ## WikiArt 1024
 
