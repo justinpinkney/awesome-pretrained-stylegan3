@@ -29,7 +29,7 @@ _For StyleGAN2 models please see: https://github.com/justinpinkney/awesome-pretr
 - **Author**: Justin Pinkney/LambdaLabs
 - **Author URL**: https://www.justinpinkney.com/ https://lambdalabs.com/
 - **Dataset**: [LHQ](https://github.com/universome/alis/blob/master/lhq.md)
-- **Source URL**: 
+- **Source URL**: https://twitter.com/Buntworthy/status/1460980442409185287?s=20
 - **Resolution**: 256x256
 - **Config**: T
 - **Notes**: FID=2.31, trained 25 Mimgs, gamma=2, mapping layers=2
