@@ -18,5 +18,19 @@ _For StyleGAN2 models please see: https://github.com/justinpinkney/awesome-pretr
 - **Source URL**: https://lambdalabs.com/blog/stylegan-3/
 - **Resolution**: 1024x1024
 - **Config**: T
-- **Notes**: FID=8.1, trained 17.1 Mimgs, gamma=32
+- **Notes**: FID=8.1, trained 17.1 Mimgs, gamma=32, mapping layers=2
+
+## Landscapes 256
+
+![montage](https://user-images.githubusercontent.com/605492/142219592-657e1141-33b4-46ea-b501-8999805d1503.jpg)
+
+- **Name**: LHQ-256
+- **Download URL**: https://drive.google.com/file/d/14UGDDOusZ9TMb-pOrF0PAjMGVWLSAii1/view?usp=sharing
+- **Author**: Justin Pinkney/LambdaLabs
+- **Author URL**: https://www.justinpinkney.com/ https://lambdalabs.com/
+- **Dataset**: [LHQ](https://github.com/universome/alis/blob/master/lhq.md)
+- **Source URL**: 
+- **Resolution**: 256x256
+- **Config**: T
+- **Notes**: FID=2.31, trained 25 Mimgs, gamma=2, mapping layers=2
 
