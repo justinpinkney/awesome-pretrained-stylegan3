@@ -34,3 +34,12 @@ _For StyleGAN2 models please see: https://github.com/justinpinkney/awesome-pretr
 - **Config**: T
 - **Notes**: FID=2.31, trained 25 Mimgs, gamma=2, mapping layers=2
 
+## Various Wombo Dream models
+
+![wmg-small](https://user-images.githubusercontent.com/605492/154523029-ba4eddf2-c1c5-4d3a-8e98-cbc6c96e00a4.jpg)
+
+- **Name**: Lucid Layers Stylegan3 Datasets and Models collection
+- **Source URL**: https://github.com/edstoica/lucid_stylegan3_datasets_models/blob/main/README.md
+- **Resolution**: 256-512
+- **Config**: T
+- **Notes**: default settings, no mirror
