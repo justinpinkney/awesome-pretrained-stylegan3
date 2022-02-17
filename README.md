@@ -1,6 +1,6 @@
 # Awesome Pretrained StyleGAN3
 
-A collection of pretrained models for StyleGAN3.
+A collection of pretrained models for StyleGAN3 (and some links to [encoding methods](https://github.com/justinpinkney/awesome-pretrained-stylegan3/edit/main/README.md#encoding-methods)).
 
 If you'd like to share a model please [submit an issue](https://github.com/justinpinkney/awesome-pretrained-stylegan3/issues/new?assignees=justinpinkney&labels=&template=submit-a-model.md&title=).
 
@@ -43,3 +43,10 @@ _For StyleGAN2 models please see: https://github.com/justinpinkney/awesome-pretr
 - **Resolution**: 256-512
 - **Config**: T
 - **Notes**: default settings, no mirror
+
+
+# Encoding methods
+
+- [StyleGAN3 Projector](https://github.com/ouhenio/stylegan3-projector)
+- [StyleGAN3 encoder4editing](https://github.com/dayu1979/stylegan3encoder)
+- [Third Time's the Charm? Image and Video Editing with StyleGAN3](https://github.com/yuval-alaluf/stylegan3-editing) - _no code yet_
