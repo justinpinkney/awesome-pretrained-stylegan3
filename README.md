@@ -50,4 +50,4 @@ _For StyleGAN2 models please see: https://github.com/justinpinkney/awesome-pretr
 - [StyleGAN3 Projector](https://github.com/ouhenio/stylegan3-projector)
 - [StyleGAN3 encoder4editing](https://github.com/dayu1979/stylegan3encoder)
 - [StyleGAN3 pixel2style2pixel](https://github.com/soushirou/stylegan3-encoder)
-- [Third Time's the Charm? Image and Video Editing with StyleGAN3](https://github.com/yuval-alaluf/stylegan3-editing) - _no code yet_
+- [Third Time's the Charm? Image and Video Editing with StyleGAN3](https://github.com/yuval-alaluf/stylegan3-editing)
