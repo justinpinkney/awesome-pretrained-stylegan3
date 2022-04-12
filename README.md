@@ -44,6 +44,15 @@ _For StyleGAN2 models please see: https://github.com/justinpinkney/awesome-pretr
 - **Config**: T
 - **Notes**: default settings, no mirror
 
+## Benches 512
+
+![bench-montage](https://user-images.githubusercontent.com/605492/162989565-130ede64-6231-4466-99cc-41b89b7fed35.jpg)
+
+- **Name**: Memorial Benches
+- **Source URL**: https://shkspr.mobi/blog/2022/04/this-bench-does-not-exist/
+- **Resolution**: 512
+- **Config**: ?
+- **Notes**: none
 
 # Encoding methods
 
